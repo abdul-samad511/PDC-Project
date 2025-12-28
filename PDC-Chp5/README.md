@@ -1,9 +1,5 @@
 Parallel and Distributed Computing – Chp 5
 
-Prepared By: Abdul Samad
-
-Course: Parallel and Distributed Computing (PDC)
-
 Chapter Objective
 
 This chapter focuses on learning how Python handles asynchronous execution, task scheduling, and parallel processing. Using asyncio and concurrent.futures, the programs show how multiple tasks can run at the same time, share data safely, and improve execution efficiency compared to sequential programs.
