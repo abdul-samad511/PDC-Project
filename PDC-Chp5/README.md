@@ -1,6 +1,7 @@
 Parallel and Distributed Computing – Chapter 5
 
 Prepared By: Abdul Samad
+
 Course: Parallel and Distributed Computing (PDC)
 
 Chapter Objective
