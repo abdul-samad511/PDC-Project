@@ -1,4 +1,4 @@
-Parallel and Distributed Computing – Chapter 5
+Parallel and Distributed Computing – Chp 5
 
 Prepared By: Abdul Samad
 
